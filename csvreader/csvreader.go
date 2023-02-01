@@ -4,8 +4,8 @@ import (
     "encoding/csv"
     "fmt"
     "os"
-	"strings"
-	"sort"
+    "strings"
+    "sort"
     "log"
 )
 
